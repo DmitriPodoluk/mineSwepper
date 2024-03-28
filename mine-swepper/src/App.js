@@ -1,12 +1,14 @@
-import logo from './logo.svg';
 import "./styles.css";
 import React from "react";
 import  Grid  from './grid';
 
+
 function App() {
   return (
     <div className="App">
+    
     <Grid />
+
   </div>
   );
 }
